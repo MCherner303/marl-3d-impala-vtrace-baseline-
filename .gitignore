@@ -1,0 +1,12 @@
+# OS/editor
+.DS_Store
+*.swp
+
+# Logs & caches
+*.log
+.cache/
+__pycache__/
+
+# Keep this repo artifact-only
+runs/
+tmp/

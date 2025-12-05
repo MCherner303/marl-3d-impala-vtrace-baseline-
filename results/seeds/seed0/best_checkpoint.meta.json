@@ -1,0 +1,8 @@
+{
+  "best_u": 800,
+  "best_ev_ma": -0.07266666666666667,
+  "chosen_update": 800,
+  "source_path": "runs/v7e_prod_seed0/checkpoints/ckpt_u0800.pt",
+  "tolerance": 80,
+  "ma_window": 3
+}

@@ -1,0 +1,131 @@
+{
+  "note": "Extracted from training log (not dedicated eval run)",
+  "log_path": "/tmp/v7e_prod_seed0.log",
+  "latest_eval": {
+    "episode": 1200,
+    "delivery_success": 0.22,
+    "treasure_reached": 0.62
+  },
+  "all_evals": [
+    {
+      "episode": 50,
+      "delivery_success": 0.14,
+      "treasure_reached": 0.52
+    },
+    {
+      "episode": 100,
+      "delivery_success": 0.24,
+      "treasure_reached": 0.68
+    },
+    {
+      "episode": 150,
+      "delivery_success": 0.18,
+      "treasure_reached": 0.6
+    },
+    {
+      "episode": 200,
+      "delivery_success": 0.14,
+      "treasure_reached": 0.56
+    },
+    {
+      "episode": 250,
+      "delivery_success": 0.26,
+      "treasure_reached": 0.58
+    },
+    {
+      "episode": 300,
+      "delivery_success": 0.2,
+      "treasure_reached": 0.5
+    },
+    {
+      "episode": 350,
+      "delivery_success": 0.16,
+      "treasure_reached": 0.66
+    },
+    {
+      "episode": 400,
+      "delivery_success": 0.22,
+      "treasure_reached": 0.54
+    },
+    {
+      "episode": 450,
+      "delivery_success": 0.26,
+      "treasure_reached": 0.64
+    },
+    {
+      "episode": 500,
+      "delivery_success": 0.22,
+      "treasure_reached": 0.58
+    },
+    {
+      "episode": 550,
+      "delivery_success": 0.22,
+      "treasure_reached": 0.5
+    },
+    {
+      "episode": 600,
+      "delivery_success": 0.18,
+      "treasure_reached": 0.56
+    },
+    {
+      "episode": 650,
+      "delivery_success": 0.24,
+      "treasure_reached": 0.62
+    },
+    {
+      "episode": 700,
+      "delivery_success": 0.26,
+      "treasure_reached": 0.56
+    },
+    {
+      "episode": 750,
+      "delivery_success": 0.22,
+      "treasure_reached": 0.5
+    },
+    {
+      "episode": 800,
+      "delivery_success": 0.18,
+      "treasure_reached": 0.48
+    },
+    {
+      "episode": 850,
+      "delivery_success": 0.14,
+      "treasure_reached": 0.58
+    },
+    {
+      "episode": 900,
+      "delivery_success": 0.14,
+      "treasure_reached": 0.52
+    },
+    {
+      "episode": 950,
+      "delivery_success": 0.22,
+      "treasure_reached": 0.64
+    },
+    {
+      "episode": 1000,
+      "delivery_success": 0.26,
+      "treasure_reached": 0.64
+    },
+    {
+      "episode": 1050,
+      "delivery_success": 0.22,
+      "treasure_reached": 0.58
+    },
+    {
+      "episode": 1100,
+      "delivery_success": 0.22,
+      "treasure_reached": 0.56
+    },
+    {
+      "episode": 1150,
+      "delivery_success": 0.28,
+      "treasure_reached": 0.56
+    },
+    {
+      "episode": 1200,
+      "delivery_success": 0.22,
+      "treasure_reached": 0.62
+    }
+  ]
+}
